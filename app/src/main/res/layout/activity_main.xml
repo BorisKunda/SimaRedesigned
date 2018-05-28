@@ -14,4 +14,13 @@
         android:text="GET CHEAPEST NEARBY GAS STATIONS"
         android:theme="@style/MaterialButton.Blue" />
 
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/MyRecyclerView"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="400dp">
+    </android.support.v7.widget.RecyclerView>
+
+
+
 </RelativeLayout>
